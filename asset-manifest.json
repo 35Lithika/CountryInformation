@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/CountryInformation/static/css/main.dbd7bdf5.css",
+    "main.js": "/github.io/CountryInformation/static/js/main.159165ac.js",
+    "index.html": "/github.io/CountryInformation/index.html",
+    "main.dbd7bdf5.css.map": "/github.io/CountryInformation/static/css/main.dbd7bdf5.css.map",
+    "main.159165ac.js.map": "/github.io/CountryInformation/static/js/main.159165ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd7bdf5.css",
+    "static/js/main.159165ac.js"
+  ]
+}
